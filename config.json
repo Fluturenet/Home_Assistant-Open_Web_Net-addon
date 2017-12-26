@@ -1,7 +1,7 @@
 {
   "name": "Open Web Net USB Gateway",
   "version": "0.1",
-  "slug": "OpenWebNet",
+  "slug": "openwebnet",
   "description": "long description",
   "url": "http://www.fluture.net/Home_Assistant-Open_Web_Net-addon/",
   "startup": "application",
